@@ -1,0 +1,14 @@
+creat pipeline
+https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/pipelines-sign-up?view=azure-devops
+https://docs.microsoft.com/en-us/azure/devops/pipelines/create-first-pipeline?view=azure-devops&tabs=java%2Ctfs-2018-2%2Cbrowser
+my pipeline:
+https://dev.azure.com/sanavisetayesh/sanavisetayesh
+koroosh github:
+https://github.com/KoroshRH/AzureDevOps
+توضیحات yaml : 
+https://rollout.io/blog/yaml-tutorial-everything-you-need-get-started/
+https://www.youtube.com/watch?v=o9pT9cWzbnI
+my azure pipelines:
+https://dev.azure.com/sanavisetayesh0142/new1/_build
+تعریف variable : 
+https://docs.microsoft.com/en-us/azure/devops/pipelines/process/variables?view=azure-devops&tabs=yaml%2Cbatch
